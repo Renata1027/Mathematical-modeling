@@ -2,10 +2,10 @@
 ## Stage 1
 ### 1.1 认识数学建模
 ### 1.2 论文写作方法
-### 1.3 基础编程
+### 1.3 [基础编程](http://github.com/Renata1027/Mathematical-modeling/blob/main/1.3%20python%E5%9F%BA%E7%A1%80%E7%BC%96%E7%A8%8B.ipynb)
 
 ## Stage 2
-### 2.1 [Titanic 生存分析]([https://markdown.com.cn](https://colab.research.google.com/drive/15dAzTSmgydGTO27A8FdLX7W7VY4YVU3q#scrollTo=etFhnWkry-Oe))
+### 2.1 [Titanic 生存分析](https://github.com/Renata1027/Mathematical-modeling/blob/main/2.1%20Titanic%20%E5%88%86%E6%9E%90.ipynb)
 - 学习目标：
   - 掌握加载数据，读取数据，描述数据，数据可视化
   - 了解数据清洗，特征工程，并进行简单建模
