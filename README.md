@@ -17,6 +17,13 @@
   - 了解AHP层次分析，TOPSIS评价体系
 - 输出结果：paper形式——问题分析，数学建模，编程内容
 
+### 2.3 Delhi 天气预测
+- 学习目标:
+  - 认识并了解时间序列数据，掌握时间序列建模。
+  - 熟悉 ARIMA 模型原理，掌握差分步骤
+  - 了解 SARIMA 模型适用场景
+- 输出结果：paper形式——问题分析，数学建模，编程内容
+
 ## Stage 3 国赛真题模拟 
 ### 3.1 [规划问题](https://github.com/Renata1027/Mathematical-modeling/blob/main/3.%E8%A7%84%E5%88%92&%E5%9B%BE%E8%AE%BA.ipynb)
 - 学习目标：
