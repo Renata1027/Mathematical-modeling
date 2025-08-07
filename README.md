@@ -16,3 +16,14 @@
   - 了解回归算法，分类算法，聚类算法
   - 了解AHP层次分析，TOPSIS评价体系
 - 输出结果：paper形式——问题分析，数学建模，编程内容
+
+## Stage 3
+### 3.1 [规划问题](https://github.com/Renata1027/Mathematical-modeling/blob/main/3.%E8%A7%84%E5%88%92&%E5%9B%BE%E8%AE%BA.ipynb)
+- 学习目标：
+  - 掌握规划算法的数学原理，适用场景，以及编程内容。
+  - 对动态规划，元启发算法重点理解掌握。
+- 输出结果：无
+
+### 3.2 [真题模拟](https://github.com/Renata1027/Mathematical-modeling/blob/main/3.%20%E8%A7%84%E5%88%92%E7%AE%97%E6%B3%95/3.2%202021%E5%B9%B4C%E9%A2%98%E6%A8%A1%E6%8B%9F/CUMCM2021-C.pdf)
+- 练习目标：独立完成建模，编程，论文内容
+- 输出结果：论文
