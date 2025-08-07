@@ -1,10 +1,10 @@
 # 学习计划
-## Stage 1 基础知识学习
+## Stage 1 基础知识学习 
 ### 1.1 认识数学建模
 ### 1.2 论文写作方法
 ### 1.3 [基础编程](http://github.com/Renata1027/Mathematical-modeling/blob/main/1.3%20python%E5%9F%BA%E7%A1%80%E7%BC%96%E7%A8%8B.ipynb)
 
-## Stage 2 机器学习案例
+## Stage 2 机器学习案例 
 ### 2.1 [Titanic 生存分析](https://github.com/Renata1027/Mathematical-modeling/blob/main/2.1%20Titanic%20%E5%88%86%E6%9E%90.ipynb)
 - 学习目标：
   - 掌握加载数据，读取数据，描述数据，数据可视化
@@ -17,7 +17,7 @@
   - 了解AHP层次分析，TOPSIS评价体系
 - 输出结果：paper形式——问题分析，数学建模，编程内容
 
-## Stage 3 国赛真题模拟
+## Stage 3 国赛真题模拟 
 ### 3.1 [规划问题](https://github.com/Renata1027/Mathematical-modeling/blob/main/3.%E8%A7%84%E5%88%92&%E5%9B%BE%E8%AE%BA.ipynb)
 - 学习目标：
   - 掌握规划算法的数学原理，适用场景，以及编程内容。
